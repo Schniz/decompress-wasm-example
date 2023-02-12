@@ -1,0 +1,19 @@
+{
+  "name": "simple-nextjs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "start": "next start",
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "canary",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

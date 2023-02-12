@@ -1,0 +1,15 @@
+{
+  "name": "compressor",
+  "collaborators": [
+    "Gal Schlezinger <gal@spitfire.co.il>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "compressor_bg.wasm",
+    "compressor.js",
+    "compressor.d.ts"
+  ],
+  "module": "compressor.js",
+  "types": "compressor.d.ts",
+  "sideEffects": false
+}
